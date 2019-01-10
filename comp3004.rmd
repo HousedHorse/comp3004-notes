@@ -320,4 +320,111 @@ output:
   - testers
   - operations
 
-## Software Development Phases
+## Software Development Phases and Products
+
+![Phases of software development.](02/development.png)
+
+![Phases with their products.](02/development2.png)
+
+\FloatBarrier
+
+# Team Organization
+
+## People Management
+
+- we **all** manage people
+  - what others expect of us
+  - what we expect of others
+- **communication**
+  - speak up about issues
+- everyone has bad days
+  - your own
+    - don't be a diva
+  - other people's
+    - humor and empathy
+- **celebrate successes**
+
+### Four Factors in Managing People
+- consistency
+  - treat others equally
+  - equally $\ne$ identically
+- respect
+  - appreciate different skills
+- inclusion
+  - listen to all ideas
+- honesty
+  - about work
+  - about skills
+
+### Recipe for Success
+- **team meetings** are **essential**
+  - Discord
+  - in person
+- assign people roles that
+  - they are **good at**
+  - they **enjoy**
+- leader works **for** the team
+  - encourage
+  - motivate
+  - listen
+
+## Team Structure
+
+- team leader
+- primes (all four people have one or two of these)
+  - documentation (ONE or TWO people)
+    - documents have consistent formatting
+  - requirements (ONE or TWO people)
+    - ensure all requirements are documented and traceable
+  - architecture/design (ONE or TWO people)
+    - ensure design is complete **and optimal**
+  - testing (TWO people, MUST pick ANOTHER ROLE)
+    - ensure all features match requirements
+  - configuration (ONE person ONLY, MUST pick ANOTHER ROLE)
+    - ensure deliverable is packed correctly
+- coding (all four people are assigned here
+  - back end
+  - front end
+
+
+# The Project
+
+## Deliverable 1
+- requirements analysis document
+  - Christine says she  might scale this slightly back
+- implementation of selected features
+  - demo
+
+## Deliverable 2
+- algorithm design document
+  - and **slides** for presentation
+  - we **cannot** modify the slides we submit
+- in-class presentation
+  - on the document/slides we submitted
+- implementation of selected features
+  - demo
+
+## Deliverable 3
+- system design document
+- implementation of selected features
+  - demo
+
+## Deliverable 4
+- document revisions
+  - algorithm design document specifically, Christine thinks
+- implementation of selected features
+  - demo
+
+## Expectations
+- **everyone** has to work, **no exceptions**
+  - 25% each
+- **follow** the **formats discussed in class**
+- **end results matter**
+  - **not** effort
+  - **only** results
+- submissions **must** be accompanied by **peer evaluations**
+  - grades will be adjusted based on contribution
+
+## System
+- Carleton University Animal Care System
+  - cuACS
